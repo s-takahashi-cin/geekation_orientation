@@ -120,15 +120,15 @@ body {
   height: 450px;
   object-fit: cover;
 }
-.swiper-scrollbar {
+/* .swiper-scrollbar {
   bottom: 230px !important;
-}
+} */
 
-@media (max-width: 576px) {
+/* @media (max-width: 576px) {
   .swiper-scrollbar {
     bottom: 348px !important;
   }
-}
+} */
 .container {
   display: flex;
   align-items: center;
